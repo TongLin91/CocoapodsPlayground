@@ -1,0 +1,6 @@
+framework module Pods_CocoapodsPlay {
+  umbrella header "Pods-CocoapodsPlay-umbrella.h"
+
+  export *
+  module * { export * }
+}
